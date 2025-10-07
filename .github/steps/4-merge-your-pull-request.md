@@ -1,3 +1,4 @@
+markdown: GFM5
 <!--
   <<< Author notes: Step 4 >>>
   Just a historic note: The previous version of this step required responding
